@@ -1,0 +1,242 @@
+Country,Name,World6 region,World4 region,Latitude,Longitude
+abw,Aruba,america,americas,12.5,-69.96667
+afg,Afghanistan,south_asia,asia,33.0,66.0
+ago,Angola,sub_saharan_africa,africa,-12.5,18.5
+aia,Anguilla,america,americas,18.21667,-63.05
+ala,Åland,europe_central_asia,europe,60.25,20.0
+alb,Albania,europe_central_asia,europe,41.0,20.0
+and,Andorra,europe_central_asia,europe,42.50779,1.52109
+are,United Arab Emirates,middle_east_north_africa,asia,23.75,54.5
+arg,Argentina,america,americas,-34.0,-64.0
+arm,Armenia,europe_central_asia,europe,40.25,45.0
+asm,American Samoa,east_asia_pacific,asia,-11.056,-171.082
+ata,Antarctica,nan,europe,-90.0,0.0
+atg,Antigua and Barbuda,america,americas,17.05,-61.8
+aus,Australia,east_asia_pacific,asia,-25.0,135.0
+aut,Austria,europe_central_asia,europe,47.33333,13.33333
+aze,Azerbaijan,europe_central_asia,europe,40.5,47.5
+bdi,Burundi,sub_saharan_africa,africa,-3.5,30.0
+bel,Belgium,europe_central_asia,europe,50.75,4.5
+ben,Benin,sub_saharan_africa,africa,9.5,2.25
+bfa,Burkina Faso,sub_saharan_africa,africa,12.5,-1.66667
+bgd,Bangladesh,south_asia,asia,24.0,90.0
+bgr,Bulgaria,europe_central_asia,europe,42.66667,25.25
+bhr,Bahrain,middle_east_north_africa,asia,26.03333,50.55
+bhs,Bahamas,america,americas,25.04082,-77.37122
+bih,Bosnia and Herzegovina,europe_central_asia,europe,44.25,17.83333
+blr,Belarus,europe_central_asia,europe,53.0,28.0
+blz,Belize,america,americas,17.49952,-88.19756
+bmu,Bermuda,america,americas,32.2949,-64.78303
+bol,Bolivia,america,americas,-17.0,-65.0
+bra,Brazil,america,americas,-10.0,-55.0
+brb,Barbados,america,americas,13.16667,-59.53333
+brn,Brunei,east_asia_pacific,asia,4.5,114.66667
+btn,Bhutan,south_asia,asia,27.5,90.5
+bwa,Botswana,sub_saharan_africa,africa,-22.0,24.0
+caf,Central African Republic,sub_saharan_africa,africa,7.0,21.0
+can,Canada,america,americas,60.10867,-113.64258
+cck,Cocos Island,east_asia_pacific,asia,-12.1642,96.87332
+che,Switzerland,europe_central_asia,europe,47.00016,8.01427
+chl,Chile,america,americas,-33.45694,-70.64827
+chn,China,east_asia_pacific,asia,35.0,105.0
+civ,Cote d'Ivoire,sub_saharan_africa,africa,8.0,-5.5
+cmr,Cameroon,sub_saharan_africa,africa,6.0,12.5
+cod,"Congo, Dem. Rep.",sub_saharan_africa,africa,-2.5,23.5
+cog,"Congo, Rep.",sub_saharan_africa,africa,-1.0,15.5
+cok,Cook Is,east_asia_pacific,asia,-21.24842,-159.78516
+col,Colombia,america,americas,4.0,-73.25
+com,Comoros,sub_saharan_africa,africa,-12.23333,44.44553
+cpv,Cape Verde,sub_saharan_africa,africa,16.0,-24.0
+cri,Costa Rica,america,americas,10.0,-84.0
+cub,Cuba,america,americas,22.0,-79.5
+cxr,Christmas Island,east_asia_pacific,asia,-10.5,105.66667
+cym,Cayman Islands,america,americas,19.5,-80.66667
+cyp,Cyprus,europe_central_asia,europe,35.0,33.0
+cze,Czech Republic,europe_central_asia,europe,49.75,15.0
+deu,Germany,europe_central_asia,europe,51.5,10.5
+dji,Djibouti,middle_east_north_africa,africa,11.58901,43.14503
+dma,Dominica,america,americas,15.5,-61.33333
+dnk,Denmark,europe_central_asia,europe,56.0,10.0
+dom,Dominican Republic,america,americas,19.0,-70.66667
+dza,Algeria,middle_east_north_africa,africa,28.0,3.0
+ecu,Ecuador,america,americas,-1.25,-78.25
+egy,Egypt,middle_east_north_africa,africa,27.0,30.0
+eri,Eritrea,sub_saharan_africa,africa,15.0,39.0
+esh,Western Sahara,middle_east_north_africa,africa,24.49215,-12.65625
+esp,Spain,europe_central_asia,europe,40.0,-4.0
+est,Estonia,europe_central_asia,europe,59.0,26.0
+eth,Ethiopia,sub_saharan_africa,africa,9.0,39.5
+fin,Finland,europe_central_asia,europe,64.0,26.0
+fji,Fiji,east_asia_pacific,asia,-18.0,178.0
+flk,Falkland Is (Malvinas),america,americas,-51.75,-59.16667
+fra,France,europe_central_asia,europe,46.0,2.0
+fro,Faeroe Islands,europe_central_asia,europe,62.0,-7.0
+fsm,"Micronesia, Fed. Sts.",east_asia_pacific,asia,6.924,158.162
+gab,Gabon,sub_saharan_africa,africa,-1.0,11.75
+gbg,Guernsey,europe_central_asia,europe,49.45474,-2.57629
+gbm,Isle of Man,europe_central_asia,europe,54.15,-4.48333
+gbr,United Kingdom,europe_central_asia,europe,54.75844,-2.69531
+geo,Georgia,europe_central_asia,europe,41.99998,43.4999
+gha,Ghana,sub_saharan_africa,africa,8.1,-1.2
+gib,Gibraltar,europe_central_asia,europe,36.14474,-5.35257
+gin,Guinea,sub_saharan_africa,africa,10.83333,-10.66667
+glp,Guadeloupe,america,americas,16.25,-61.58333
+gmb,Gambia,sub_saharan_africa,africa,13.5,-15.5
+gnb,Guinea-Bissau,sub_saharan_africa,africa,12.0,-15.0
+gnq,Equatorial Guinea,sub_saharan_africa,africa,1.7,10.5
+grc,Greece,europe_central_asia,europe,39.0,22.0
+grd,Grenada,america,americas,12.11667,-61.66667
+grl,Greenland,europe_central_asia,europe,72.0,-40.0
+gtm,Guatemala,america,americas,14.64072,-90.51327
+guf,French Guiana,america,americas,4.0,-53.0
+gum,Guam,east_asia_pacific,asia,13.47861,144.81834
+guy,Guyana,america,americas,5.0,-59.0
+hkg,"Hong Kong, China",east_asia_pacific,asia,22.28552,114.15769
+hnd,Honduras,america,americas,15.0,-86.5
+hos,Holy See,europe_central_asia,europe,41.90236,12.45332
+hrv,Croatia,europe_central_asia,europe,45.16667,15.5
+hti,Haiti,america,americas,19.0,-72.41667
+hun,Hungary,europe_central_asia,europe,47.0,20.0
+idn,Indonesia,east_asia_pacific,asia,-5.0,120.0
+ind,India,south_asia,asia,22.0,79.0
+iot,British Indian Ocean Territory,nan,asia,-6.0,72.0
+irl,Ireland,europe_central_asia,europe,53.0,-8.0
+irn,Iran,middle_east_north_africa,asia,32.0,53.0
+irq,Iraq,middle_east_north_africa,asia,33.0,44.0
+isl,Iceland,europe_central_asia,europe,65.0,-18.0
+isr,Israel,middle_east_north_africa,asia,31.5,34.75
+ita,Italy,europe_central_asia,europe,42.83333,12.83333
+jam,Jamaica,america,americas,18.16667,-77.25
+jey,Jersey,europe_central_asia,europe,49.21667,-2.11667
+jor,Jordan,middle_east_north_africa,asia,31.0,36.0
+jpn,Japan,east_asia_pacific,asia,35.68536,139.75309
+kaz,Kazakhstan,europe_central_asia,asia,48.0,68.0
+ken,Kenya,sub_saharan_africa,africa,1.0,38.0
+kgz,Kyrgyz Republic,europe_central_asia,asia,41.5,75.0
+khm,Cambodia,east_asia_pacific,asia,13.0,105.0
+kir,Kiribati,east_asia_pacific,asia,1.421,172.984
+kna,St. Kitts and Nevis,america,americas,17.33333,-62.75
+kor,South Korea,east_asia_pacific,asia,36.5,127.75
+kwt,Kuwait,middle_east_north_africa,asia,29.36972,47.97833
+lao,Lao,east_asia_pacific,asia,18.0,105.0
+lbn,Lebanon,middle_east_north_africa,asia,33.83333,35.83333
+lbr,Liberia,sub_saharan_africa,africa,6.5,-9.5
+lby,Libya,middle_east_north_africa,africa,28.0,17.0
+lca,St. Lucia,america,americas,13.88333,-60.96667
+lie,Liechtenstein,europe_central_asia,europe,47.16667,9.53333
+lka,Sri Lanka,south_asia,asia,7.75,80.75
+lso,Lesotho,sub_saharan_africa,africa,-29.5,28.25
+ltu,Lithuania,europe_central_asia,europe,55.41667,24.0
+lux,Luxembourg,europe_central_asia,europe,49.61167,6.13
+lva,Latvia,europe_central_asia,europe,57.0,25.0
+mac,"Macao, China",east_asia_pacific,asia,22.20056,113.54611
+mar,Morocco,middle_east_north_africa,africa,32.0,-6.0
+mco,Monaco,europe_central_asia,europe,43.73333,7.41667
+mda,Moldova,europe_central_asia,europe,47.25,28.58333
+mdg,Madagascar,sub_saharan_africa,africa,-20.0,47.0
+mdv,Maldives,south_asia,asia,3.2,73.0
+mex,Mexico,america,americas,19.42847,-99.12766
+mhl,Marshall Islands,east_asia_pacific,asia,7.113,171.236
+mkd,North Macedonia,europe_central_asia,europe,41.66667,21.75
+mli,Mali,sub_saharan_africa,africa,18.0,-2.0
+mlt,Malta,europe_central_asia,europe,35.91667,14.43333
+mmr,Myanmar,east_asia_pacific,asia,21.0,96.0
+mne,Montenegro,europe_central_asia,europe,42.75,19.25
+mng,Mongolia,east_asia_pacific,asia,46.0,105.0
+mnp,Northern Mariana Islands,east_asia_pacific,asia,15.214,145.756
+moz,Mozambique,sub_saharan_africa,africa,-18.25,35.0
+mrt,Mauritania,sub_saharan_africa,africa,20.25,-10.5
+msr,Montserrat,america,americas,16.75,-62.2
+mtq,Martinique,america,americas,14.66667,-61.0
+mus,Mauritius,sub_saharan_africa,africa,-20.3,57.58333
+mwi,Malawi,sub_saharan_africa,africa,-13.5,34.0
+mys,Malaysia,east_asia_pacific,asia,2.5,112.5
+myt,Mayotte,sub_saharan_africa,africa,-12.83333,45.16667
+nam,Namibia,sub_saharan_africa,africa,-22.0,17.0
+ncl,New Caledonia,east_asia_pacific,asia,-21.5,165.5
+ner,Niger,sub_saharan_africa,africa,18.0,9.0
+nfk,Norfolk Island,east_asia_pacific,asia,-29.03333,167.95
+nga,Nigeria,sub_saharan_africa,africa,10.0,8.0
+nic,Nicaragua,america,americas,13.0,-85.0
+niu,Niue,east_asia_pacific,asia,-19.03333,-169.86667
+nld,Netherlands,europe_central_asia,europe,52.25,5.75
+nld_curacao,Curaçao,america,americas,12.16667,-68.96667
+nor,Norway,europe_central_asia,europe,62.0,10.0
+npl,Nepal,south_asia,asia,28.0,84.0
+nru,Nauru,east_asia_pacific,asia,-0.517,166.933
+nzl,New Zealand,east_asia_pacific,asia,-42.0,174.0
+omn,Oman,middle_east_north_africa,asia,21.0,57.0
+pak,Pakistan,south_asia,asia,30.0,70.0
+pan,Panama,america,americas,8.9936,-79.51973
+pcn,Pitcairn,east_asia_pacific,asia,-25.06667,-130.1
+per,Peru,america,americas,-10.0,-75.25
+phl,Philippines,east_asia_pacific,asia,13.0,122.0
+plw,Palau,east_asia_pacific,asia,7.503,134.621
+png,Papua New Guinea,east_asia_pacific,asia,-6.0,147.0
+pol,Poland,europe_central_asia,europe,52.0,20.0
+pri,Puerto Rico,america,americas,18.46633,-66.10572
+prk,North Korea,east_asia_pacific,asia,40.0,127.0
+prt,Portugal,europe_central_asia,europe,39.6945,-8.13057
+pry,Paraguay,america,americas,-23.33333,-58.0
+pse,Palestine,middle_east_north_africa,asia,31.92157,35.20329
+pyf,French Polynesia,east_asia_pacific,asia,-15.0,-140.0
+qat,Qatar,middle_east_north_africa,asia,25.27932,51.52245
+reu,Reunion,sub_saharan_africa,africa,-20.88231,55.4504
+rou,Romania,europe_central_asia,europe,46.0,25.0
+rus,Russia,europe_central_asia,europe,60.0,100.0
+rwa,Rwanda,sub_saharan_africa,africa,-2.0,30.0
+sau,Saudi Arabia,middle_east_north_africa,asia,25.0,45.0
+sdn,Sudan,sub_saharan_africa,africa,16.0,30.0
+sen,Senegal,sub_saharan_africa,africa,14.5,-14.25
+sgp,Singapore,east_asia_pacific,asia,1.28967,103.85007
+shn,St. Helena,sub_saharan_africa,africa,-15.95,-5.7
+sjm,Svalbard,europe_central_asia,europe,78.0,20.0
+slb,Solomon Islands,east_asia_pacific,asia,-8.0,159.0
+sle,Sierra Leone,sub_saharan_africa,africa,8.5,-11.5
+slv,El Salvador,america,americas,13.83333,-88.91667
+smr,San Marino,europe_central_asia,europe,43.93667,12.44639
+som,Somalia,sub_saharan_africa,africa,6.0,48.0
+spm,St.-Pierre-et-Miquelon,america,americas,46.83333,-56.33333
+srb,Serbia,europe_central_asia,europe,44.81892,20.45998
+ssd,South Sudan,sub_saharan_africa,africa,7.5,30.0
+stp,Sao Tome and Principe,sub_saharan_africa,africa,1.0,7.0
+sur,Suriname,america,americas,4.0,-56.0
+svk,Slovak Republic,europe_central_asia,europe,48.66667,19.5
+svn,Slovenia,europe_central_asia,europe,46.08333,15.0
+swe,Sweden,europe_central_asia,europe,62.0,15.0
+swz,Swaziland,sub_saharan_africa,africa,-26.5,31.5
+sxm,Sint Maarten (Dutch part),nan,americas,18.04167,-63.06667
+syc,Seychelles,sub_saharan_africa,africa,-4.58333,55.66667
+syr,Syria,middle_east_north_africa,asia,35.0,38.0
+tca,Turks and Caicos Islands,america,americas,21.73333,-71.58333
+tcd,Chad,sub_saharan_africa,africa,15.0,19.0
+tgo,Togo,sub_saharan_africa,africa,8.66667,1.08333
+tha,Thailand,east_asia_pacific,asia,15.5,101.0
+tjk,Tajikistan,europe_central_asia,asia,39.0,71.0
+tkl,Tokelau,east_asia_pacific,asia,-9.167,-171.83
+tkm,Turkmenistan,europe_central_asia,asia,39.75,59.66667
+tls,Timor-Leste,east_asia_pacific,asia,-8.83333,125.75
+ton,Tonga,east_asia_pacific,asia,-20.0,-175.0
+tto,Trinidad and Tobago,america,americas,11.0,-61.0
+tun,Tunisia,middle_east_north_africa,africa,34.0,9.0
+tur,Turkey,europe_central_asia,europe,39.0,35.0
+tuv,Tuvalu,east_asia_pacific,asia,-8.51719,179.14478
+twn,Taiwan,east_asia_pacific,asia,24.0,121.0
+tza,Tanzania,sub_saharan_africa,africa,-6.0,35.0
+uga,Uganda,sub_saharan_africa,africa,1.25,32.5
+ukr,Ukraine,europe_central_asia,europe,49.0,32.0
+ury,Uruguay,america,americas,-33.0,-56.0
+usa,United States,america,americas,39.76,-98.5
+uzb,Uzbekistan,europe_central_asia,asia,41.66667,63.83333
+vct,St. Vincent and the Grenadines,america,americas,13.08333,-61.2
+ven,Venezuela,america,americas,8.0,-66.0
+vgb,British Virgin Islands,america,americas,18.5,-64.5
+vir,Virgin Islands (U.S.),america,americas,18.34829,-64.98348
+vnm,Vietnam,east_asia_pacific,asia,16.16667,107.83333
+vut,Vanuatu,east_asia_pacific,asia,-16.0,167.0
+wlf,Wallis et Futuna,east_asia_pacific,asia,-13.3,-176.2
+wsm,Samoa,east_asia_pacific,asia,-13.8,-172.13333
+yem,Yemen,middle_east_north_africa,asia,15.5,47.5
+zaf,South Africa,sub_saharan_africa,africa,-29.0,24.0
+zmb,Zambia,sub_saharan_africa,africa,-14.33333,28.5
+zwe,Zimbabwe,sub_saharan_africa,africa,-19.0,29.75
